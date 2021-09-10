@@ -8,10 +8,11 @@ This is a node.js command line application which takes the prompt inputs and gen
 - Javascript - Used to base functionality of functions and prompts within the application.
 
 
-
-
 The application will be invoked by typing the command:
 node index.js. If any non-related input is given, it will notify the user. For a convenient and clear look, It has made the UI simple and attractive with appropriate css style and google fonts. 
+
+## Usage
+This application helps to generate the profile of the employee in a fast and convenient way for all the small and big organization. It will be very handy in those business where large number of new employee works and need to create profile constantly.
 
 ## Walkthrough video:
 
