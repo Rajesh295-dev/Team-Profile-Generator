@@ -1,7 +1,7 @@
 # Team Profile Generator
 
 ### Description
-This is a node.js command line application which takes the prompt inputs and generates an HTML file. This application has builted up with an node.js and inquirer packages as a back end. This app will run in the browser and feature dynamically with updated [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), and [Node.js](https://nodejs.org/en/).
+This is a node.js command line application which takes the prompt inputs and generates an HTML file. This application has builted up with an node.js and inquirer packages as a back end. This app will feature dynamically with updated [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), and [Node.js](https://nodejs.org/en/).
 ## Feature List:
 - Node.js - Used for package managment and to execute JavaScript code to build command line tool for server-side scripting.
 
